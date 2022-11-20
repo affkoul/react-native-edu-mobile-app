@@ -24,4 +24,4 @@ React Native Video Course App By [GAC DEV](https://geniusandcourage.com)
 
 ## In Action
 
-![Ecommerce Web App](https://hlwsdtech.com:8081/images/recatnative.png)
+![Ecommerce Web App](https://hlwsdtech.com:8081/images/reactnative.png)
